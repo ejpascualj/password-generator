@@ -1,4 +1,4 @@
-Password Generator
+#Password Generator#
 This application generates a random password, ranging between 8 and 128 characters, and containing uppercase letters, lowercase letters, numbers, and special characters. 
 This application uses window prompt to obtain user inputs for:
 1. The number of characters (between 8 and 128)
