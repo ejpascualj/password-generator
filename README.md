@@ -7,3 +7,5 @@ This application uses window prompts to obtain user inputs for:
 2. The type of characters (at least one type must be selected)
 
 The algorithm ensures that at least one random character for each of one of the user-selected character types is included in the password; otherwise, the rest of the character types and characters in the password are randomized. The password is then both displayed in an alert and written on the page.
+
+You can find the deployed application at: https://ejpascualj.github.io/password-generator/
